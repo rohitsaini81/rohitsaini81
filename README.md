@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Saini</h1>
-<h3 align="center">A passionate full-stack (MERN) developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsaini81&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsaini81" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsaini81" alt="rohitsaini81" /></a> </p>
 
-- 🌱 I’m currently learning **Libgdx game development**
+<!-- - 🌱 I’m currently learning **Libgdx game development** -->
 
 - 👨‍💻 All of my projects are available at [rohit-saini.onrender.com](rohit-saini.onrender.com)
 

@@ -1,60 +1,83 @@
-<h1 align="center">Hi there! 👋 I'm Rohit Saini</h1>
-<h3 align="center">🚀 Passionate Software Developer | MERN | SQL | Android (Java) </h3><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitsaini81&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
----
-
-🛠 About Me
-
-💻 I build web & mobile applications.
-
-📝 I share insights & tutorials on my blog.
-
-📂 Check out my projects at Portfolio.
-
-📬 Reach me at rohit1322saini@gmail.com.
-
-📄 My Resume.
-
-⚡ Fun fact: I excel in communication & problem-solving!
-
-
-
----
-
-📬 Connect With Me
+<h1 align="center">yo 👋 i'm Rohit Saini</h1>
+<h3 align="center">💻 building cool stuff on the internet | MERN • SQL • Android (Java) • Game Dev • 3D</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rohit-saini-4698901bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/scientist.tech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/rohitsaini81"><img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rohitsaini81&label=profile%20stalkers&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
+
 ---
 
-🛠 Technologies & Tools
+## 🧠 who am i?
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,mysql,java,android,git,linux,cpp,bootstrap,unity,postman" />
-</p>
+basically? i turn caffeine into code.
+
+🚀 i build web & mobile apps that (hopefully) don’t crash at 2am  
+🎮 i also make games because reality needed better graphics  
+🧊 i design 3D stuff in Blender when my brain wants polygons instead of APIs  
+📝 i drop dev knowledge + tutorials on my blog  
+📂 my projects live in my portfolio (go peek 👀)  
+📬 email me: **rohit1322saini@gmail.com**  
+📄 yes i have a resume. yes it's updated. mostly.  
+
+⚡ random flex: communication skills + problem solving go kinda hard  
+
 ---
 
-📊 GitHub Stats
+## 🌐 let's be internet friends
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitsaini81&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://linkedin.com/in/rohit-saini-4698901bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/scientist.tech">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/rohitsaini81">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠 my tech stack (aka my weapons)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,mysql,java,android,git,linux,cpp,bootstrap,unity,blender,postman" />
+</p>
+
+translation:  
+JavaScript is my comfort zone.  
+React + Node = my chaos combo.  
+SQL when I’m feeling structured.  
+Android (Java) when I miss mobile grind mode.  
+Unity + C++ when I’m in game dev villain arc.  
+Blender when I want to sculpt pixels into existence.  
+
+---
+
+## 📊 github stats (yes i grind)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitsaini81&show_icons=true&theme=radical" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=rohitsaini81&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rohitsaini81&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsaini81&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsaini81&layout=compact&theme=radical" />
 </p>
+
 ---
 
-☕ Support Me
+## ☕ fuel the developer arc
 
-If you enjoy my work, consider buying me a coffee!
+if you like what i build and wanna support the grind:
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/rohitsaini81">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
   </a>
 </p>
+
+---
+
+lowkey just here to build, learn, and level up every day.  
+web, mobile, games, 3D — we don’t limit the creativity pipeline 🚀

@@ -18,6 +18,7 @@ basically? i turn caffeine into code.
 📂 my projects live in my portfolio (go peek 👀)  
 📬 email me: **rohit1322saini@gmail.com**  
 📄 yes i have a resume. yes it's updated. mostly.  
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-8A2BE2?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/rohitsaini81/resume)
 
 ⚡ random flex: communication skills + problem solving go kinda hard  
 
